@@ -5,7 +5,8 @@
 * **查看配置**
   * 查看系统配置：`git config --system --list`
   * 查看用户全局配置：`git config --global --list`
-***
+* 配置ssh
+  [参考文献](https://blog.csdn.net/weixin_44406127/article/details/137540031)
 # Git创建本地仓库
 1. 在目标目录下新建本地仓库文件夹
 2. 在该文件夹下打开git bash
